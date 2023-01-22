@@ -5,7 +5,7 @@ body{
     padding: 0;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    Background-Color: lightgray;
+    Background-Color: RGB(240,250,3260);
 }
 
 h1, h2 {
@@ -17,10 +17,16 @@ p {
 }
 
 img {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    display: block;
 }
 
 a {
     color: green;
     font-size: 20p;
+}
+
+#navigation {
+    float: right;
+    margin-left: 800px;
 }
