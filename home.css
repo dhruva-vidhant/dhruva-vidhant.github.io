@@ -159,7 +159,7 @@
   padding-bottom: var(--dl-space-space-tenunits);
   background-size: cover;
   justify-content: center;
-  background-image: url('banner.png');
+  background-image: url('https://media.discordapp.net/attachments/1051188812165951518/1066791125207236618/Screenshot_2023-01-22_10.46.46_AM.png');
 }
 .home-content-container {
   width: 100%;
